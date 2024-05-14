@@ -1,6 +1,3 @@
-# Group Assignment 4
-# Author: Ji Li and Alisha Jeon
-# Date: 8 Aug 2020
 
 
 # Import Random
