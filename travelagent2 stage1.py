@@ -1,6 +1,4 @@
-#Authors: Alisha Jeon, Ji Li
-#Date: Aug 7, 2020
-#Purpose: Stage 1
+
 
 import random
 
